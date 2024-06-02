@@ -7,3 +7,18 @@ h1 {
     color: olivedrab;
     background-color: yellow;
 }
+
+div{
+    text-align: center;
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+    background-color: yellowgreen;
+}
+
+.recipe {
+    font-size: 25px;
+}
+
