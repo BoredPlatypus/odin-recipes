@@ -7,3 +7,6 @@ h1, h3{
     color:rgb(55, 55, 196);
     background-color: rgb(224, 155, 71);
 }
+h3, h4{
+    color: rgb(55, 55, 196);
+}
