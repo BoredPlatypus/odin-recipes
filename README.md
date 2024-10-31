@@ -10,6 +10,8 @@ now by following the odin project curriculum.
 
 Added some CSS to this project.
 
+Notable change: Changed the look of the index.html page by changing some CSS layout.
+
 After Project report:
 
 1. Have a good grasp on the HTML concepts taught to me by The Odin Project.
