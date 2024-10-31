@@ -1,24 +1,57 @@
 * {
-    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    border: 0px;
+    background-color: lightgoldenrodyellow;
+
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
 }
 
 h1 {
     text-align: center;
-    color: olivedrab;
-    background-color: yellow;
+    color: green;
+    background-color: rgb(249, 249, 6);
+    border: 3px solid green;
+    margin: 100px 200px;
+    padding: 30px;
+
 }
 
-div{
-    text-align: center;
+.addlayout, .center{
+    background-color: bisque;
 }
 
-ul{
-    display: table;
+
+.addlayout{
     margin: 0 auto;
-    background-color: yellowgreen;
+    text-align: center;
+    border: 2px solid brown;
+    margin: 0px 650px 0px;
+    padding: 20px;
+    
+}
+
+.center{
+    display:inline-block;
+    text-align: left;
 }
 
 .recipe {
     font-size: 25px;
+    margin: 5px;
+    background-color: bisque;
+}
+
+a:link{
+    color:brown;
+    background-color: bisque;
+}
+a:visited{
+    color:olivedrab;
+    background-color: bisque;
 }
 
