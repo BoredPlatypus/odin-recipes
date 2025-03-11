@@ -19,3 +19,5 @@ After Project report:
 2. I need to get a better grasp on the concepts of git because I had to take some help by referring to the git section of the course.
 
 3. Have a basic grasp of the concepts of CSS. Excited to learn more.
+
+Live: https://boredplatypus.github.io/odin-recipes/
